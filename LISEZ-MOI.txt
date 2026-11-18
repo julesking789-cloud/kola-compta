@@ -1,0 +1,17 @@
+KOLA COMPTA — Application Android (GitHub Pages)
+
+Fichiers à mettre sur GitHub (tous) :
+  index.html, manifest.webmanifest, sw.js, 
+
+1. Crée un compte gratuit sur github.com.
+2. Clique sur « + » puis « New repository ». Nom : kola-compta. Choisis « Public ». Clique « Create repository ».
+3. Clique sur « uploading an existing file », glisse tous les fichiers , puis « Commit changes ».
+4. Va dans Settings > Pages. Source : « Deploy from a branch », branche « main », dossier « / (root) ». Save.
+5. Après 1 à 2 minutes, l'adresse est : https://TON-NOM.github.io/kola-compta/
+6. Sur ton téléphone Android, ouvre cette adresse dans Chrome, menu ⋮ > « Installer l'application » (ou « Ajouter à l'écran d'accueil »).
+
+L'application s'ouvre ensuite comme une vraie appli et marche sans internet.
+Tes données (clients, factures…) restent sur le téléphone : elles ne sont pas envoyées sur GitHub.
+Fais une sauvegarde (.json) chaque semaine : Paramètres > Sauvegarde.
+
+Mise à jour : remplace index.html sur GitHub. Le téléphone affiche « Nouvelle version disponible ».
